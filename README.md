@@ -1,4 +1,4 @@
-#Junior Data Analyst 
+# Junior Data Analyst 
 Technical Skill: MySQL, BigQuery, Python, Java, Excel, Google Sheets, Tableau, PowerBI  
 
 ## Education
