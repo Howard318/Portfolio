@@ -1,3 +1,12 @@
+#Junior Data Analyst 
+Technical Skill: MySQL, BigQuery, Python, Java, Excel, Google Sheets, Tableau, PowerBI  
+
+## Education
+Bachelor of Science, Psychology | Western Washington University (March 2019)  
+
+## Certifications
+Google Data Analytics Professional Certificate | Google (June 2024)  
+Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data Management Academy  
 
 ## Experience 
 
