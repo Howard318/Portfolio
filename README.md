@@ -1,3 +1,4 @@
+[Resume](./resume.html).
 # Junior Data Analyst 
 Technical Skill: MySQL, BigQuery, Python, Java, Excel, Google Sheets, Tableau, PowerBI  
 
