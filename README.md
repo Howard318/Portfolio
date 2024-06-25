@@ -40,3 +40,7 @@ Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data
 - Demonstrated exceptional communication skills by resolving 50+ customer complaints and queries daily, ensuring high customer satisfaction.
 - Significantly contributed to enhancing the refund system and overall service reliability by proactively identifying opportunities for improvement, analyzing challenges, and providing valuable feedback to the relevant departments.
 - Exhibited a proactive and resourceful approach in efficiently addressing emergency issues on live orders through calls and live chats, providing prompt solutions to resolve concerns effectively.
+
+
+### Case Study 
+- [Cyclistic Bike-Share Data](/Bike-Share-Data-Analysis/)
