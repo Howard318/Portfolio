@@ -44,3 +44,13 @@ Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data
 
 ### Case Study 
 - [Cyclistic Bike-Share Data](/Bike-Share-Data-Analysis/)
+  - Analyzed data to develop marketing strategies aimed at converting casual riders into annual members.
+  - My analysis revealed distinct patterns that informed targeted marketing recommendations, ultimately supporting the company's goal of increasing long-term memberships and revenue.
+  - Demonstrates my proficiency in data analysis, visualization, and strategic business insights, showcasing MySQL process large datasets and Tableau for data visualization.
+
+
+
+
+
+
+
