@@ -1,7 +1,7 @@
 # Junior Data Analyst 
 Technical Skill: MySQL, BigQuery, Python, Java, Excel, Google Sheets, Tableau, PowerBI  
 
-Full resume [here](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/15958961/Kin.Ho.Tam.resume.pdf)
+Full resume [here](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/15966264/Kin.Ho.Tam.resume.pdf)
 
 ## Education
 Bachelor of Science, Psychology | Western Washington University (March 2019)  
