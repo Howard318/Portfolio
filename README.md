@@ -8,8 +8,9 @@ Bachelor of Science, Psychology | Western Washington University (March 2019)
 
 ## Certifications
 Google Data Analytics Professional Certificate | Google (June 2024)  
+- [view](/Assets/Google-DA-Certification.pdf)
 Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data Management Academy  
-
+- [view](Assets/Microsoft-Certificate,-Big-data-Analytics-with-python-Excel-and-powerBI.pdf)
 ## Experience 
 
 ### Support Operations Administrator @ Walkers Global (Oct. 2023 – Apr. 2024)
