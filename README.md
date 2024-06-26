@@ -51,6 +51,8 @@ Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data
   - Analyzed data to develop marketing strategies aimed at converting casual riders into annual members.
   - My analysis revealed distinct patterns that informed targeted marketing recommendations, ultimately supporting the company's goal of increasing long-term memberships and revenue.
   - Demonstrates my proficiency in data analysis, visualization, and strategic business insights, showcasing MySQL process large datasets and Tableau for data visualization.
+  - Quick look at the data:    ![Final Dashboard (1)](https://github.com/Howard318/Portfolio/assets/38737417/6826ee65-b53a-4857-8bdc-73a39862167a)
+
 
 
 
