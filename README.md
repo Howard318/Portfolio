@@ -7,10 +7,10 @@ Full resume [here](https://docs.google.com/viewer?url=https://github.com/user-at
 Bachelor of Science, Psychology | Western Washington University (March 2019)  
 
 ## Certifications
-Google Data Analytics Professional Certificate | Google (June 2024)
+Google Data Analytics Professional Certificate | Google (June 2024)  
 [Certificate](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/15966303/Google.DA.Certification.pdf)
   
-Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data Management Academy
+Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data Management Academy  
 [Certificate](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/15966307/Microsoft.Certificate.Big.data.Analytics.with.python.Excel.and.powerBI.pdf)  
   
 ## Experience 
