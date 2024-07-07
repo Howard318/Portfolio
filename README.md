@@ -1,4 +1,4 @@
-# Administrative Assistant & Junior Data Analyst 
+# Administrative Assistant &   Junior Data Analyst 
 Technical Skill: MySQL, BigQuery, Python, Java, Excel, Google Sheets, Tableau, PowerBI  
 
 Full resume [here](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/15966264/Kin.Ho.Tam.resume.pdf)
