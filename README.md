@@ -1,7 +1,7 @@
 # Administrative Assistant &   Junior Data Analyst 
 Technical Skill: MySQL, BigQuery, Python, Java, Excel, Google Sheets, Tableau, PowerBI  
 
-Full resume [here](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/15966264/Kin.Ho.Tam.resume.pdf)
+Full resume [here](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/16826647/Kin.Ho.Tam.Resume.docx.pdf)
 
 ## Education
 Bachelor of Science, Psychology | Western Washington University (March 2019)  
@@ -15,34 +15,35 @@ Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data
   
 ## Experience 
 
-### Support Operations Administrator @ Walkers Global (Oct. 2023 – Apr. 2024)
+### Operations Administrator @ Walkers Global (Legal & Professional Services for Finance)
 - Built and maintained strong relationships across jurisdictions and divisions, fostering collaboration and effective communication for project coordination.
-- Managed data in spreadsheets and reports, showcasing proficiency in data management and analysis.Identified and addressed discrepancies in records, highlighting the attention to detail and commitment to data integrity.
-- Successfully completed transactional processes and provided support for both BAU and project work, demonstrating a strong ability to handle diverse responsibilities with high accuracy and adhering to required standards.
+- Managed data in spreadsheets and reports, showcasing proficiency in data management and analysis, increased office efficiency by 15% by setting up Excel formulas, reducing errors by 95%. Identified and addressed discrepancies, ensuring data integrity with a 99% accuracy rate.
+- Successfully completed transactional processes and provided support for both regular and project work, demonstrating a strong ability to handle diverse responsibilities with 100% accuracy
+- Developed and implemented guidelines for newly adopted systems, enhancing project efficiency by 20% and reducing error rates by 15%.
 
 
-### Junior Executive Assistant @ Animoca Brands Corporation Ltd (Apr. 2023 – Jun. 2023)
-- Provided executive and administrative support for the company Chairman and HR Director, ensuring their needs were met promptly and efficiently.
-- Expedited decision-making processes by gathering data, analyzing reports, and presenting findings to executives.
+### Executive Assistant @ Animoca Brands Corporation Ltd (Digital assets holding / Crypto)
+(Apr. 2023 – Jun. 2023)
+- Provided comprehensive executive and administrative support to the company Chairman and HR Director, ensuring their needs were met within a designated response time, which boosted their productivity by 20%.
+- Organized and coordinated 7+ corporate events and meetings, including agenda preparation, logistics management, and post-event follow-up, improving overall event efficiency by 15%
+- Handled all domestic and international travel reservations, lowering company traveling costs by 12%
+- Expedited decision-making processes by gathering data, analyzing reports, and presenting findings to executives, resulting in a 15% faster decision-making process.
 
-
-### Legal Assistant (Part-Time) @ Lims Solicitors (Oct. 2022 – Apr. 2023)
-- Managed legal tasks and assignments, guaranteeing smooth operations and consistently meeting deadlines with precision.
-- Organized documents to manage paper and electronic filing systems of clients.
-- Prepared and drafted correspondence and legal forms to maintain smooth communications.
-
-
-### Executive Assistant II @ Hospital Authority (Jul. 2020 – Jul. 2022)
-- Managed Telecom services for the hospital, maintaining records and data, evaluating contracts, and conducting utilization assessments to drive cost-effective
-- Utilized Excel to analyze the usage of Telecom services in the hospital, identifying areas for improvement and proposing ideas to enhance overall stability and service quality.
-- Completed 6+ projects for hospital renovation work. collaborating with internal and external stakeholders to ensure successful project outcomes with tight timelines.
+### Executive Assistant II @ Hospital Authority (Regulator)
+(Jul. 2020 – Jul. 2022)
+- Utilized Excel to analyze the usage of Telecom services in the hospital, identifying areas for improvement and proposing ideas to enhance overall stability and service quality. As a result, improved stability by 20% and achieved a 98% service level.
+- Managed Telecom services for the hospital, maintaining records and data, reviewing contracts, and evaluating utilization to optimize cost efficiency, saving over $3000 annually
+- Provided executive and administrative support for clinical and non-clinical departments, ensuring their needs were met effectively.
 - Oversaw and assisted with the office's daily operations, including record-keeping, coordinating meetings, and performing ad-hoc tasks.
+- Managed 6+ projects for hospital renovation work, collaborating with internal and external stakeholders to ensure successful project outcomes with tight timelines.
+- Maintain, improve, and set up guidelines and procedures for the region and hospital emergency protocol, reducing response time by over 5 minutes.
 
 
-### Customer Care Executive @ Deliveroo (Sep. 2019 – Jul. 2020)
-- Demonstrated exceptional communication skills by resolving 50+ customer complaints and queries daily, ensuring high customer satisfaction.
-- Significantly contributed to enhancing the refund system and overall service reliability by proactively identifying opportunities for improvement, analyzing challenges, and providing valuable feedback to the relevant departments.
-- Exhibited a proactive and resourceful approach in efficiently addressing emergency issues on live orders through calls and live chats, providing prompt solutions to resolve concerns effectively.
+### Customer Care Executive @ Deliveroo (Food Delivery)
+(Sep. 2019 – Jul. 2020)
+- Demonstrated exceptional communication skills by resolving over 50 customer complaints and queries daily, achieving a 99% customer satisfaction rate,
+- Significantly contributed to enhancing the refund system and overall service reliability by proactively identifying opportunities for improvement, analyzing challenges, and providing valuable feedback to relevant departments—improved mobile app usability, resulting in a 60% reduction in incoming calls regarding the same issues.
+- Exhibited a proactive and resourceful approach in efficiently addressing emergency issues on live orders through calls and live chats, providing prompt solutions to resolve concerns effectively, and achieved and maintained 99.9% SLAs
 
 
 ### Case Study 
