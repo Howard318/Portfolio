@@ -16,6 +16,7 @@ Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data
 ## Experience 
 
 ### Operations Administrator @ Walkers Global (Legal & Professional Services for Finance)
+(Oct. 2023 – Apr. 2024)
 - Built and maintained strong relationships across jurisdictions and divisions, fostering collaboration and effective communication for project coordination.
 - Managed data in spreadsheets and reports, showcasing proficiency in data management and analysis, increased office efficiency by 15% by setting up Excel formulas, reducing errors by 95%. Identified and addressed discrepancies, ensuring data integrity with a 99% accuracy rate.
 - Successfully completed transactional processes and provided support for both regular and project work, demonstrating a strong ability to handle diverse responsibilities with 100% accuracy
