@@ -1,7 +1,7 @@
 # Administrative Assistant &   Junior Data Analyst 
 Technical Skill: MySQL, BigQuery, Python, Java, Excel, Google Sheets, Tableau, PowerBI  
 
-Full resume [here](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/16826647/Kin.Ho.Tam.Resume.docx.pdf)
+Full resume [here](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/17015376/Kin.Ho.Tam.Resume.docx)
 
 ## Education
 Bachelor of Science, Psychology | Western Washington University (March 2019)  
@@ -18,7 +18,7 @@ Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data
 ### Operations Administrator @ Walkers Global (Legal & Professional Services for Finance)
 (Oct. 2023 – Apr. 2024)
 - Built and maintained strong relationships across jurisdictions and divisions, fostering collaboration and effective communication for project coordination.
-- Managed data in spreadsheets and reports, showcasing proficiency in data management and analysis, increased office efficiency by 15% by setting up Excel formulas, reducing errors by 95%. Identified and addressed discrepancies, ensuring data integrity with a 99% accuracy rate.
+- Managed documents using iManage and organized data in spreadsheets, increasing office efficiency by 15% through the implementation of Excel formulas, which reduced errors by 95%. Identified and resolved discrepancies, ensuring data integrity with a 99% accuracy rate.
 - Successfully completed transactional processes and provided support for both regular and project work, demonstrating a strong ability to handle diverse responsibilities with 100% accuracy
 - Developed and implemented guidelines for newly adopted systems, enhancing project efficiency by 20% and reducing error rates by 15%.
 
