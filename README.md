@@ -17,35 +17,34 @@ Certificate in Big Data Analytics with Python, Excel and PowerBI, Hong Kong Data
 
 ### Operations Administrator @ Walkers Global (Legal & Professional Services for Finance)
 (Oct. 2023 – Apr. 2024)
-- Built and maintained strong relationships across jurisdictions and divisions, fostering collaboration and effective communication for project coordination.
-- Managed documents using iManage and organized data in spreadsheets, increasing office efficiency by 15% through the implementation of Excel formulas, which reduced errors by 95%. Identified and resolved discrepancies, ensuring data integrity with a 99% accuracy rate.
-- Successfully completed transactional processes and provided support for both regular and project work, demonstrating a strong ability to handle diverse responsibilities with 100% accuracy
-- Developed and implemented guidelines for newly adopted systems, enhancing project efficiency by 20% and reducing error rates by 15%.
-
+•	Reviewed, processed, and verified legal documentation for compliance, ensuring 100% adherence to company policies and regulatory requirements.
+•	Coordinated and tracked project reports, ensuring deadlines were consistently met with a 100% on-time completion rate.
+•	Managed documents on a cloud-based platform and organized data in spreadsheets, increasing office efficiency by 15% through the implementation of Excel formulas, which reduced errors by 95%. Identified and resolved discrepancies, ensuring data integrity with a 99% accuracy rate.
+•	Developed and implemented guidelines for newly adopted systems, enhancing project efficiency by 20% and reducing error rates by 15%.
+•	Developed and maintained organized project files using document control systems, improving accessibility and reducing search time.
 
 ### Executive Assistant @ Animoca Brands Corporation Ltd (Digital assets holding / Crypto)
 (Apr. 2023 – Jun. 2023)
-- Provided comprehensive executive and administrative support to the company Chairman and HR Director, ensuring their needs were met within a designated response time, which boosted their productivity by 20%.
-- Organized and coordinated 7+ corporate events and meetings, including agenda preparation, logistics management, and post-event follow-up, improving overall event efficiency by 15%
-- Handled all domestic and international travel reservations, lowering company traveling costs by 12%
-- Expedited decision-making processes by gathering data, analyzing reports, and presenting findings to executives, resulting in a 15% faster decision-making process.
+•	Provided administrative support, managed documentation, and facilitated compliance with internal policies, ensuring consistency in operations.
+•	Assisted front desk operations, greeting clients and managing inquiries.
+•	Organized and coordinated over 7 corporate events and meetings, handling logistics, agenda preparation, and follow-ups, improving event efficiency by 15%.
+•	Managed international and domestic travel arrangements, reducing travel costs by 12% through effective planning and negotiation with vendors.
+•	Gathered and analyzed data for executives, expediting decision-making processes by 15%.
 
 ### Executive Assistant II @ Hospital Authority (Regulator)
 (Jul. 2020 – Jul. 2022)
-- Utilized Excel to analyze the usage of Telecom services in the hospital, identifying areas for improvement and proposing ideas to enhance overall stability and service quality. As a result, improved stability by 20% and achieved a 98% service level.
-- Managed Telecom services for the hospital, maintaining records and data, reviewing contracts, and evaluating utilization to optimize cost efficiency, saving over $3000 annually
-- Provided executive and administrative support for clinical and non-clinical departments, ensuring their needs were met effectively.
-- Oversaw and assisted with the office's daily operations, including record-keeping, coordinating meetings, and performing ad-hoc tasks.
-- Managed 6+ projects for hospital renovation work, collaborating with internal and external stakeholders to ensure successful project outcomes with tight timelines.
-- Maintain, improve, and set up guidelines and procedures for the region and hospital emergency protocol, reducing response time by over 5 minutes.
-
+•	Assisted in day-to-day administrative tasks, including managing office facilities, and inventory, contributing to efficient office operations.
+•	Collected, input, and analyzed data to prepare statistical reports, charts, and graphs, supporting service evaluations and management reporting.
+•	Coordinated meetings, prepared agendas, and maintained detailed records for follow-up, ensuring timely completion of all action items.
+•	Drafted and managed official correspondence, handled data processing, and managed filing systems to ensure organized and accurate record-keeping.
+•	Provided support by answering inquiries and resolving issues.
+•	Supported multiple projects simultaneously, meeting tight deadlines and delivering high-quality results under minimal supervision.
 
 ### Customer Care Executive @ Deliveroo (Food Delivery)
 (Sep. 2019 – Jul. 2020)
-- Demonstrated exceptional communication skills by resolving over 50 customer complaints and queries daily, achieving a 99% customer satisfaction rate,
-- Significantly contributed to enhancing the refund system and overall service reliability by proactively identifying opportunities for improvement, analyzing challenges, and providing valuable feedback to relevant departments—improved mobile app usability, resulting in a 60% reduction in incoming calls regarding the same issues.
-- Exhibited a proactive and resourceful approach in efficiently addressing emergency issues on live orders through calls and live chats, providing prompt solutions to resolve concerns effectively, and achieved and maintained 99.9% SLAs
-
+•	Demonstrated exceptional communication skills by resolving over 50 customer complaints and queries daily via phone and email, achieving a 99% customer satisfaction rate.
+•	Significantly contributed to enhancing the refund system and overall service reliability by proactively identifying opportunities for improvement, analyzing challenges, and providing valuable feedback to relevant departments—improved mobile app usability, resulting in a 60% reduction in incoming calls regarding the same issues.
+•	Exhibited a proactive and resourceful approach in efficiently addressing emergency issues on live orders through calls and live chats, providing prompt solutions to resolve concerns effectively, and achieved and maintained 99.9% SLAs.
 
 ### Case Study 
 - [Cyclistic Bike-Share Data](/Bike-Share-Data-Analysis/)
